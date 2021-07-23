@@ -104,15 +104,15 @@ author:
   name             : "JinHong Lee"
   avatar           : "/assets/images/leejinhong_b.jpg"
   bio              : "**피할 수 있어도 즐기는 개발자**"
-  location         : "Somewhere"
+  location         : "south korea seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:a01022174171@gmail.com"
-    - label: "Website"
+    - label: "blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://dev-crimson.tistory.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
