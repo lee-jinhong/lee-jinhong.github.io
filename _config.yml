@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "JinHong Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/이진홍_.jpg"
   bio              : "**피할 수 있어도 즐기는 개발자**"
   location         : "Somewhere"
   email            :
